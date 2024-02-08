@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-05T17:24:29 IST" name="Default suite" finished-at="2024-02-05T17:24:40 IST" duration-ms="11535">
+    <groups>
+    </groups>
+    <test started-at="2024-02-05T17:24:29 IST" name="Default test" finished-at="2024-02-05T17:24:40 IST" duration-ms="11535">
+      <class name="TestCase1.LoginTestCase">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestCase1.LoginTestCase@2892d68]" started-at="2024-02-05T17:24:29 IST" name="setup" finished-at="2024-02-05T17:24:34 IST" duration-ms="5448" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginWithInvalidUsernameAndValidPassword()[pri:0, instance:TestCase1.LoginTestCase@2892d68]" started-at="2024-02-05T17:24:34 IST" name="loginWithInvalidUsernameAndValidPassword" finished-at="2024-02-05T17:24:35 IST" duration-ms="229" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithInvalidUsernameAndValidPassword -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCase1.LoginTestCase@2892d68]" started-at="2024-02-05T17:24:35 IST" name="tearDown" finished-at="2024-02-05T17:24:35 IST" duration-ms="433" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestCase1.LoginTestCase@2892d68]" started-at="2024-02-05T17:24:35 IST" name="setup" finished-at="2024-02-05T17:24:40 IST" duration-ms="4780" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginWithValidUsernameAndVaildPassword()[pri:1, instance:TestCase1.LoginTestCase@2892d68]" started-at="2024-02-05T17:24:40 IST" name="loginWithValidUsernameAndVaildPassword" finished-at="2024-02-05T17:24:40 IST" duration-ms="260" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithValidUsernameAndVaildPassword -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestCase1.LoginTestCase@2892d68]" started-at="2024-02-05T17:24:40 IST" name="tearDown" finished-at="2024-02-05T17:24:40 IST" duration-ms="346" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestCase1.LoginTestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
